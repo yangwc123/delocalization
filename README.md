@@ -1,2 +1,3 @@
 # delocalization
-$$i\hbar \frac{\partial \psi}{\partial t} = H\psi$$
+
+# $$i\hbar \frac{\partial \psi}{\partial t} = H\psi$$
